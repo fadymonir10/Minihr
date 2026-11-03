@@ -1,0 +1,17 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="calendar-tick">
+<path id="Vector" d="M16.6667 4.16667V10.4167" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" stroke="#3B4EFF"/>
+<path id="Vector_2" d="M33.3333 4.16667V10.4167" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" stroke="#3B4EFF"/>
+<path id="Vector_3" d="M7.29167 18.9375H42.7083" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" stroke="#3B4EFF"/>
+<g id="Group">
+<path id="Vector_4" d="M45.8333 39.5833C45.8333 41.1458 45.3958 42.625 44.625 43.875C43.1875 46.2917 40.5417 47.9167 37.5 47.9167C35.3958 47.9167 33.4792 47.1458 32.0208 45.8333C31.375 45.2917 30.8125 44.625 30.375 43.875C29.6042 42.625 29.1667 41.1458 29.1667 39.5833C29.1667 34.9792 32.8958 31.25 37.5 31.25C40 31.25 42.2292 32.3541 43.75 34.0833C45.0417 35.5625 45.8333 37.4792 45.8333 39.5833Z" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" stroke="#3B4EFF"/>
+<path id="Vector_5" d="M34.25 39.5833L36.3125 41.6458L40.75 37.5416" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke="#3B4EFF"/>
+</g>
+<path id="Vector_6" d="M43.75 17.7083V34.0833C42.2292 32.3541 40 31.25 37.5 31.25C32.8958 31.25 29.1667 34.9792 29.1667 39.5833C29.1667 41.1458 29.6042 42.625 30.375 43.875C30.8125 44.625 31.375 45.2917 32.0208 45.8333H16.6667C9.375 45.8333 6.25 41.6667 6.25 35.4167V17.7083C6.25 11.4583 9.375 7.29167 16.6667 7.29167H33.3333C40.625 7.29167 43.75 11.4583 43.75 17.7083Z" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" stroke="#3B4EFF"/>
+<g id="Vector_7" opacity="0">
+</g>
+<path id="Vector_8" d="M24.9906 28.5417H25.0093" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke="#3B4EFF"/>
+<path id="Vector_9" d="M17.2798 28.5417H17.2985" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke="#3B4EFF"/>
+<path id="Vector_10" d="M17.2798 34.7917H17.2985" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke="#3B4EFF"/>
+</g>
+</svg>
